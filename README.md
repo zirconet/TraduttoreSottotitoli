@@ -8,5 +8,10 @@ Utilizza le seguenti librerie:
   
 Non sarà lo script meglio scritto, ma in un tempo ragionevole (circa 300 secondi per processare un episodio di tre quarti d'ora) riesce a sfornare dei sottotitoli in italiano discretamente accettabili.
 
+# Utilizzo
+Per lanciare digitare il comando:
+python gt.py [file.srt_da_tradurre]
+
+# Informazioni
 Maggiori informazioni: https://wp.me/p7hWH-6vd
   
