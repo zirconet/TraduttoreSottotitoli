@@ -2,7 +2,6 @@ import sys, os
 from googletrans import Translator
 from timeit import default_timer as timer
 
-
 start = timer()
 count = 0
 TRcount = 0
